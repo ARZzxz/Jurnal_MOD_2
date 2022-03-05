@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\JurnalMod2\JurnalMod2\bin\Debug\JurnalMod2.exe.config
+C:\Users\ASUS\source\repos\JurnalMod2\JurnalMod2\bin\Debug\JurnalMod2.exe
+C:\Users\ASUS\source\repos\JurnalMod2\JurnalMod2\bin\Debug\JurnalMod2.pdb
+C:\Users\ASUS\source\repos\JurnalMod2\JurnalMod2\obj\Debug\JurnalMod2.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\JurnalMod2\JurnalMod2\obj\Debug\JurnalMod2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\JurnalMod2\JurnalMod2\obj\Debug\JurnalMod2.Form1.resources
+C:\Users\ASUS\source\repos\JurnalMod2\JurnalMod2\obj\Debug\JurnalMod2.Properties.Resources.resources
+C:\Users\ASUS\source\repos\JurnalMod2\JurnalMod2\obj\Debug\JurnalMod2.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\JurnalMod2\JurnalMod2\obj\Debug\JurnalMod2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\JurnalMod2\JurnalMod2\obj\Debug\JurnalMod2.exe
+C:\Users\ASUS\source\repos\JurnalMod2\JurnalMod2\obj\Debug\JurnalMod2.pdb
